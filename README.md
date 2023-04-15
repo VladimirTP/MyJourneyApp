@@ -1,4 +1,4 @@
-# My Cafe App
+# My Cafe App with recipes
 
 <a href="https://example.com"><img src="https://i.ibb.co/x33DjMr/your-cafe-logo.png" alt="Cafe Logo"></a>
 
