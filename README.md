@@ -4,8 +4,6 @@
 
 ## About
 
-Welcome to My Cafe App, your best resource for finding delicious cafe recipes! Whether you're looking for a new Chicken Ham and Leek Pie recipe to try, or want to whip up some tasty pastries at home, we've got you covered. Our app is easy to use and features a wide variety of recipes to suit any taste.
-
-## Developer
-
-This App was developed by Vladimir Tamashov. I'm an android developer with a passion for creating user-friendly applications. If you have any questions or feedback about My Cafe App, please don't hesitate to get in touch! You can reach me at vladimir.tamashov@gmail.com.
+Welcome to My Cafe App, your best resource for finding delicious cafe recipes! Whether you're looking for a new Chicken Ham and Leek Pie recipe to try, or want to whip up some tasty pastries at home, we've got you covered. Our app is easy to use and features a wide variety of recipes to suit any taste. It provides a list of all kinds of meals with detailed instructions on how to prepare it at home.
+The application also contains a registration form with Firebase authentication, allowing registered users to use all the functionality of the application.
+In the locations page, you will find the contact details of the cafe and its location on the map
