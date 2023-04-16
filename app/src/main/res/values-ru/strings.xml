@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Твое кафе с рецептами</string>
+    <string name="registration_title">Создать аккаунт</string>
+    <string name="name_hint">Имя</string>
+    <string name="password_hint">Пароль</string>
+    <string name="confirm_password_hint">Подтвердите пароль</string>
+    <string name="register_button_text">Зарегистрироваться</string>
+
+    <string name="connection_error">Ошибка соединения</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="your_best_cafe">Ваше лучшее кафе: Ваше название</string>
+    <string name="address">Адрес: ваш адрес</string>
+    <string name="phone">Телефон: ваш телефон</string>
+    <string name="website">Сайт: ваш сайт</string>
+    <string name="category_name">Имя категории</string>
+    <string name="your_list_of_favorite_meals_is_empty">Ваш список любимых блюд пуст</string>
+    <string name="login">Авторизоваться</string>
+    <string name="signup">Зарегистрироваться</string>
+    <string name="password">Пароль</string>
+    <string name="or">Или</string>
+    <string name="not_yet_registered_signup">Еще не зарегистрированы? Зарегистрироваться</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="what_would_you_like_to_eat">Что бы вы хотели съесть?</string>
+    <string name="over_popular_items">Наши популярные блюда</string>
+    <string name="categories">Категории</string>
+    <string name="instructions">- Инструкции</string>
+    <string name="name">Имя</string>
+    <string name="confirm_password">Подтвердить пароль</string>
+    <string name="already_an_user_login">Уже есть аккаунт? Авторизоваться</string>
+    <string name="category">Категория: %s</string>
+    <string name="area">Область: %s</string>
+    <string name="please_fill_all_fields">Все поля должны быть заполнены</string>
+    <string name="success">Успешно</string>
+    <string name="authentication_failed">Не удалось авторизироваться</string>
+    <string name="meal_saved">Блюдо сохранено</string>
+    <string name="passwords_do_not_match">Введенные пароли не совпадают</string>
+    <string name="undo">Отмена</string>
+    <string name="meal_deleted">Блюдо удалено</string>
+    <string name="home">Главная</string>
+    <string name="favorites">Избранное</string>
+    <string name="location">Местоположение</string>
+</resources>

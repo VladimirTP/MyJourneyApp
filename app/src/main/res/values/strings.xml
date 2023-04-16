@@ -1,3 +1,45 @@
 <resources>
-    <string name="app_name">MyJourneyApp</string>
+    <string name="app_name">Your cafe with recipes</string>
+    <string name="registration_title">Create Account</string>
+    <string name="name_hint">Full Name</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_button_text">SignUp</string>
+
+    <string name="connection_error">Connection Error</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="your_best_cafe">Your best cafe: Your name</string>
+    <string name="address">Address: your address</string>
+    <string name="phone">Phone: your phone</string>
+    <string name="website">WebSite: your website</string>
+    <string name="category_name">Category name</string>
+    <string name="your_list_of_favorite_meals_is_empty">Your list of favorite meals is empty</string>
+    <string name="login">LogIn</string>
+    <string name="signup">SignUp</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="or">OR</string>
+    <string name="not_yet_registered_signup">Not yet registered? SignUp</string>
+    <string name="welcome">Welcome</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat</string>
+    <string name="over_popular_items">Over popular items</string>
+    <string name="categories">Categories</string>
+    <string name="instructions">- Instructions</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="category">Category: %s</string>
+    <string name="area">Area: %s</string>
+    <string name="please_fill_all_fields">Please fill all fields</string>
+    <string name="success">Success</string>
+    <string name="authentication_failed">Authentication failed</string>
+    <string name="meal_saved">Meal saved</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="meal_deleted">Meal deleted</string>
+    <string name="undo">Undo</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="location">Location</string>
+
 </resources>
